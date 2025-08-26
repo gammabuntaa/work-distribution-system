@@ -5,7 +5,7 @@ This repository contains the documentation, design artifacts, test cases, and ve
 ## Team Members
 - Ritesh Shrestha
 - Aman Udas  
-- Ravi Dhiman 
+- Ravi Dhiman Maharjan
 ---
 
 ## Repository Structure
