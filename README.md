@@ -18,11 +18,11 @@ This repository contains the documentation, design artifacts, test cases, and ve
 
 /design  
     ├── use_case_diagram.png  
-    ├── class_diagram.png  
-    ├── sequence_diagram_login.png  
-    ├── sequence_diagram_workflow.png  
-    ├── activity_diagram_login.png  
-    ├── activity_diagram_work_distribution.png  
+    ├── class_diagram_1.png  
+    ├── class_diagram_2.png  
+    ├── sequence_diagram_1.png  
+    ├── sequence_diagram_2.png  
+    ├── activity_diagram.png  
 
 /testing  
     ├── test_cases.xlsx  
@@ -38,9 +38,9 @@ This repository contains the documentation, design artifacts, test cases, and ve
 
 ### 2. Diagrams (UML)
 - 1 Use Case Diagram  
-- 1 Class Diagram  
-- 2 Sequence Diagrams (Login, Workflow)  
-- 2 Activity Diagrams (Login, Work Distribution)  
+- 2 Class Diagrams  
+- 2 Sequence Diagrams  
+- 1 Activity Diagram
 
 ### 3. Test Cases
 - All test cases consolidated in a single Excel file (test_cases.xlsx)  
